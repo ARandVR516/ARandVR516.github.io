@@ -1,0 +1,109 @@
+.box{
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+}
+.banner{
+	width: 960px;
+	height: 580px;
+}
+.content{
+	width: 960px;
+	height: 420px;
+}
+.footer{
+	width: 960px;
+	height: 80px;
+	background: black;
+	padding-top: 20px;
+}
+.header{
+	padding: 20px;
+	background-image: url(../img/fon.jpg);
+	width: 920px;
+	height: 540px;
+}
+.h1{
+	color: white;
+	margin-top: 30px;
+	margin-left: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.h2{
+	color: white;
+	width: 360px;
+	margin-top: 20px;
+	margin-left: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p1{
+	color: white;
+	width: 360px;
+	margin-left: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p2{
+	text-decoration: none;
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 2px solid white;
+	width: 95px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.f1{
+	float: right;
+	margin-top: -240px;
+}
+.hr{
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.block{
+	margin-top: 15px;
+	width:220px; 
+	float:left;
+	margin-left: 20px;
+	text-align:  center;
+}
+.title1{
+	font-size: 16px;
+	color: midnightblue;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.title2{
+	margin-left: 35px;
+	font-weight: bold;
+	font-size: 21px;
+	width: 140px;
+	color: midnightblue;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p5{
+	text-align: center;
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.block1{
+	margin-top: 20px;
+	width:220px; 
+	float:left;
+	margin-left: 20px;
+	text-align:  center;
+}
+.icon1{
+	margin-top: 15px;
+}
+a{
+
+}
+a:hover{
+	color: orange;
+	background: white;
+}
