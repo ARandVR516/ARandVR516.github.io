@@ -23,6 +23,10 @@
 	width: 920px;
 	height: 540px;
 }
+.a1{
+	text-decoration: none;
+	color: orange;
+}
 .h1{
 	color: white;
 	margin-top: 30px;
@@ -54,6 +58,17 @@
 	padding-bottom: 9px;
 	margin-left: 40px;
 	margin-top: 30px;
+}
+.p3{
+	padding: 7px;
+	text-decoration: none;
+	color: orange;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 2px solid  orange;
+}
+.p3:hover{
+	color: white;
+	background: orange;
 }
 .f1{
 	float: right;
